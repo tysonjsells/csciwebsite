@@ -36,7 +36,6 @@ export default function Home() {
       sans-serif;
   }
 
-
   main {
     padding: 5rem 0;
     flex: 1;
