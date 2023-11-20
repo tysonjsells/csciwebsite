@@ -48,7 +48,7 @@ export default function Home() {
           .title {
             margin: 0;
             line-height: 1.15;
-            font-size: 4rem;
+            font-size: 3rem;
           }
 
           .underline {
@@ -63,7 +63,7 @@ export default function Home() {
 
           .pic {
             height: 450px;
-            width: 450px;
+            width: 800px;
           }
 
           code {
