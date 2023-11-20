@@ -25,11 +25,6 @@ export default function Home() {
             hero in your corner, just remember, I'm your friendly neighborhood Spider-Man!"
           </p>
 
-          <a className='button' href='/'>
-            <p> Back to Home Page</p>
-          </a>
-        </main>
-
         <style jsx>{`
           .container {
             min-height: 100vh;
