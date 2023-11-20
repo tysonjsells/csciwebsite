@@ -24,6 +24,8 @@ export default function Home() {
             from common crooks to supervillains. So, if you ever need a hand or a web-swinging
             hero in your corner, just remember, I'm your friendly neighborhood Spider-Man!"
           </p>
+                
+        </main>
 
         <style jsx>{`
           .container {
