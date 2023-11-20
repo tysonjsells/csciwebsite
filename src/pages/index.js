@@ -6,7 +6,7 @@ export default function Home() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Tyson Sells</h1>
+            <h1 className='title'>Tyson Sells </h1>
           </div>
           <img
             className='pic'
@@ -23,18 +23,6 @@ export default function Home() {
             climbing, camping, and about every other hobby in the mountains!"
           </p>
         
-
-        <style jsx>{`
-          .container {
-            min-height: 100vh;
-            padding: 0 0.5rem;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            max-width: 60rem;
-            margin: auto;
-          }
 
           main {
             padding: 5rem 0;
