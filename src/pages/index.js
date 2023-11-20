@@ -1,5 +1,3 @@
-import Head from 'next/head'
-
 export default function Home() {
     return (
       <div className='container'>
@@ -72,30 +70,6 @@ export default function Home() {
           .pic {
             height: 450px;
             width: 450px;
-          }
-
-          .button {
-            /* margin: .5rem; */
-            flex-basis: 45%;
-            padding: 0.5rem;
-            text-align: left;
-            color: inherit;
-            text-decoration: none;
-            border: 1px solid #eaeaea;
-            border-radius: 10px;
-            transition: color 0.15s ease, border-color 0.15s ease;
-          }
-
-          .button:hover,
-          .button:focus,
-          .button:active {
-            color: #0070f3;
-            border-color: #0070f3;
-          }
-
-          .button p {
-            font-size: 1rem;
-            font-weight: 600;
           }
 
           code {
