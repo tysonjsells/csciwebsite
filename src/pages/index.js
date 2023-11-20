@@ -27,9 +27,7 @@ export default function Home() {
   );
 }
 
-// Move this block outside the component
 <style jsx global>{`
-  html,
   body {
     padding: 0;
     margin: 0;
@@ -38,9 +36,6 @@ export default function Home() {
       sans-serif;
   }
 
-  * {
-    box-sizing: border-box;
-  }
 
   main {
     padding: 5rem 0;
